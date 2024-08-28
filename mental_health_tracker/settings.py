@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-erlhr1*t=d7scj4y*+hd_eejqh4n)w5^4$4sw!%a^blu!h1ebc'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "jeremi-felix-mentalhealthtracker.pbp.cs.ui.ac.id"]
 
